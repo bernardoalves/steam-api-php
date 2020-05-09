@@ -1,9 +1,9 @@
 {
-    "name": "da-mitchell/steam-api",
+    "name": "bernardoalves/steam-api-php",
     "type": "library",
     "description": "PHP wrapper for the steam web API",
     "keywords": ["steam", "dota", "api", "csgo", "counter strike"],
-    "homepage": "https://github.com/DaMitchell/steam-api-php",
+    "homepage": "https://github.com/bernardoalves/steam-api-php",
     "license": "BSD-2-Clause",
     "authors": [
         {
